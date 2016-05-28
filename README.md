@@ -33,5 +33,11 @@ Taking the calculation above and using a large screen and 15px gutters the calcu
 #### When using container-fluid
 `container-fluid` disregards page sizes and its width is simply 100% of screen size, or its parent element. This results in a variable column width that changes with the width of the browser window.
 
+### How to run this repository
+
+* Run `npm install`
+* Run `npm start`
+* Navigate your browser to http://localhost:8080
+
 ### Conclusion
 Hopefully this is clear to anyone wondering how to calculate the width of a column using a bootstrap grid. If there are any errors please let me know!
