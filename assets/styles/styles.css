@@ -1,0 +1,32 @@
+.container {
+  background-color: #ddd;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+}
+
+.container.white {
+	background-color: #fff;
+}
+
+.container-fluid {
+  background-color: #ddd;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+}
+
+.row-text{
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+[class*="col-"] {
+  background-color: #eee;
+  background-color: rgba(86,61,124,.15);
+  text-align: center;
+}
+
+.col-text {
+  background-color: #cccc;
+}
