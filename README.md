@@ -1,5 +1,8 @@
 # bootstrap-grid-demo
 
+### Demo
+Link to demo: [http://bootstrap-demo.s3-website-eu-west-1.amazonaws.com](http://bootstrap-demo.s3-website-eu-west-1.amazonaws.com)
+
 ### Purpose
 This demo has been created to demonstrate how column widths are calculated using the bootstrap grid system. When using bootstrap I am often asked how wide is a column by clients and designers and there isn't a clear answer, as, well... it depends. The width of a column in bootstrap is determined by several factors.
 
@@ -37,7 +40,7 @@ Taking the calculation above and using a large screen and 15px gutters the calcu
 
 * Run `npm install`
 * Run `npm start`
-* Navigate your browser to http://localhost:8080
+* Navigate your browser to [http://localhost:8080](http://localhost:8080)
 
 ### Conclusion
 Hopefully this is clear to anyone wondering how to calculate the width of a column using a bootstrap grid. If there are any errors please let me know!
