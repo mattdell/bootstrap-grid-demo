@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-grid-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple demo to show the column widths using the Bootstrap grid system",
   "main": "server.js",
   "scripts": {
